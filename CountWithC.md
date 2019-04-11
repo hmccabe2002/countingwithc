@@ -1,5 +1,5 @@
 # Counting in `C`
-### For Loop
+### [For Loop](forloopcount.c "For Loop")
 ```C
 #include <stdio.h>
 #include <stdlib.h>
@@ -18,7 +18,7 @@ int main()
     return 0;
 }
 ```
-### While Loop
+### [While Loop](whileloopcount.c "While Loop")
 ```C
 #include <stdio.h>
 #include <stdlib.h>
